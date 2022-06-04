@@ -25,5 +25,6 @@ This program checks for any avaliable camera devices that are attacted to the co
   * Wrapping the by considering the givern points (warpPerspective()) 
   * The final wrapped image then displayed onto a seperate window 
 
-
-![Alt Text](https://github.com/the-confused-genius/realtime-video-stabilization/blob/main/example.gif)
+This example shows how, the lable on my book is stabilised and displayed on the other window even though the move my book in different angles and directions.
+Note: As I get the book closer to the screen the clarity of the output window also increases.
+<p align= "center" > ![Alt Text](https://github.com/the-confused-genius/realtime-video-stabilization/blob/main/example.gif) </p>
