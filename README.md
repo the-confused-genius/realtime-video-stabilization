@@ -1,7 +1,6 @@
 # A Realtime Video Stabilization
-Program entirely made with c++, using the help of OpenCV. C++ is fast and powerfull language.
-This program works like an EIS (Electronic Image stabilaization), Originally the project was made to detect and work as a document scanner.
-This program checks for any avaliable camera devices that are attacted to the computer (web camera in my case), if available, it then uses it. The program then goes into an infinite loop treating 1 millisecond as one frame (though this doesnt happen due to delay created by the processor) and treating that frame as an image. Then we apply the Preprocessing of the image, then we get the Contours, then we Warp the image and display the image in another window. This process happens continuously such that the effect at large scale is treated as a videa rather than image
+Program entirely made with c++, using the help of OpenCV. C++ is fast and powerful language.   
+This program works like an EIS (Electronic Image stabilization), Originally the project was made to detect and work as a document scanner. This program checks for any available camera devices that are attached to the computer (web camera in my case), if available, it then uses it. The program then goes into an infinite loop treating 1 millisecond as one frame (though this doesn't happen due to delay created by the processor) and treating that frame as an image. Then we apply the Pre-processing of the image, then we get the Contours, then we Warp the image and display the image in another window. This process happens continuously such that the effect at large scale is treated as a video rather than image
 
 
 * Preprocessing Step  
