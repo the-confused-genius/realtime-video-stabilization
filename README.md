@@ -24,3 +24,6 @@ This program checks for any avaliable camera devices that are attacted to the co
 * Warpping the image
   * Wrapping the by considering the givern points (warpPerspective()) 
   * The final wrapped image then displayed onto a seperate window 
+
+
+![Alt Text](https://github.com/the-confused-genius/realtime-video-stabilization/blob/main/example.gif)
